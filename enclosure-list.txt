@@ -10,3 +10,9 @@ Smart Door/Motion sensor enclosure:
 3. SZOMK AK-R-109
     Alliexpress url: https://www.aliexpress.com/item/1-piece-72-42-19mm-diy-plastic-electrical-remote-control-enclosure-with-button-handheld-instrument-housing/32758316550.html
     Unit Cost: 3.4 USD
+
+
+Smart IR Controller:
+1.SZOMK AK-N-33
+https://www.aliexpress.com/item/electronics-plastic-sensor-shell-enclosure-4pcs-75-57-12mm-small-portable-radio-plastic-enclosure-handheld-plastic/32315823451.html
+Unit Cost: 4.25 USD
